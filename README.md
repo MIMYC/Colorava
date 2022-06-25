@@ -11,10 +11,10 @@ How to:
 
 Examples:
 
-System.out.println(red + "Hello");
+System.out.println(c.red + "Hello");
 This will print the text "Hello" with red colour.
 
-System.out.println(bgyellow + red + "Hello");
+System.out.println(c.bgyellow + c.red + "Hello");
 This will print the text "Hello" with red colour along with yellow background.
 
 Supported Colours:
