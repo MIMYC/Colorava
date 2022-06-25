@@ -1,22 +1,23 @@
-#Colorava
-###Colorama but for Java!
+Colorava
 
-####How to:
+Colorama but for Java!
+
+How to:
 
 -> Clone the repository
 -> Place the colorava folder in your java project's directory
 -> import the c class of colorava in the class you want to use it (import colorava.c;)
 -> Profit.
 
-####Examples:
+Examples:
 
-######System.out.println(red + "Hello");
+System.out.println(red + "Hello");
 This will print the text "Hello" with red colour.
 
-######System.out.println(bgyellow + red + "Hello");
+System.out.println(bgyellow + red + "Hello");
 This will print the text "Hello" with red colour along with yellow background.
 
-####Supported Colours:
+Supported Colours:
 
 black
 red
