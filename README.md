@@ -2,6 +2,8 @@ Colorava
 
 Colorama but for Java!
 
+If you don't know what colorama is, it's just a tool to print colored text instead of the boring white text in the console
+
 How to:
 
 -> Clone the repository
